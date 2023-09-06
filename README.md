@@ -1,5 +1,5 @@
 # Laptop-Price-Predictor
- A Machine Learning Model that predicts the prices of laptops.
+A Machine Learning Model that predicts the prices of laptops.
 
 pipe.pkl file contains the trained model.
 df.pkl is the dataset used with the model.
